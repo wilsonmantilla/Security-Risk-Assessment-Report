@@ -1,5 +1,10 @@
 <h1>Security Risk Assessment Report</h1>
 
+<h2>Description</h2>
+I tackled a scenario involving a significant data breach. My task was to propose three hardening tools or methods to mitigate four major vulnerabilities.. This project was part of the Google Cybersecurity Professional Certification.
+
+
+
 <h2>Scenario</h2>
 You are a security analyst working for a social media organization. The organization recently experienced a major data breach, which compromised the safety of their customers’ personal information, such as names and addresses. Your organization wants to implement strong network hardening practices that can be performed consistently to prevent attacks and breaches in the future. 
 After inspecting the organization’s network, you discover four major vulnerabilities. The four vulnerabilities are as follows:
